@@ -1,2 +1,3 @@
 # pythonWB
-use Python to grasp check_in_num
+1.首先构建格网，格网是7*7格网，可参见相关代码</br>
+2.下次写
